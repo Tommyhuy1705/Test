@@ -19,3 +19,4 @@ phone1 = Phone('Ip14', 500, 5, 1)
 print(Phone.all)
 print(Item.all)
 #--> deu in ra item(...) --> do __rerp__ chua phan class name
+#dgfhgsdfgdhfhdhjdgdhjfgfs
